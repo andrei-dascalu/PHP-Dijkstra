@@ -1,0 +1,15 @@
+{
+    "name": "adascalu/php-dijkstra",
+    "require": {
+        "phpunit/phpunit": "^7.3"
+    },
+    "authors": [
+        {
+            "name": "Andrei Dascalu",
+            "email": "andrei.dascalu@8x8.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": { "": "src/" }
+    }
+}
